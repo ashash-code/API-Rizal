@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ashley Ebreo\\source\\repos\\API_Proj\\API_Proj\\API_Proj.csproj",
+      "projectUniqueName": "C:\\Users\\Ashley Ebreo\\Documents\\GitHub\\API-Rizal\\API_Proj\\API_Proj.csproj",
       "projectName": "API_Proj",
-      "projectPath": "C:\\Users\\Ashley Ebreo\\source\\repos\\API_Proj\\API_Proj\\API_Proj.csproj",
+      "projectPath": "C:\\Users\\Ashley Ebreo\\Documents\\GitHub\\API-Rizal\\API_Proj\\API_Proj.csproj",
       "packagesPath": "C:\\Users\\Ashley Ebreo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashley Ebreo\\source\\repos\\API_Proj\\API_Proj\\obj\\",
+      "outputPath": "C:\\Users\\Ashley Ebreo\\Documents\\GitHub\\API-Rizal\\API_Proj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
